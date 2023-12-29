@@ -2,6 +2,7 @@
     import Header from "../Components/Header.svelte";
     import { Label, Input } from "flowbite-svelte";
     import { Button } from "flowbite-svelte";
+    import { apiUrl } from "../Utils/api";
     let myPropValue = "Welcome Provider!";
   </script>
    
